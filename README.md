@@ -5,7 +5,7 @@
 > 阅读文档请到 👉  **https://www.ziiai.com/docs/keras**
 ---
 
-Keras 相关文章：[https://www.ziiai.com/topic/341](https://www.ziiai.com/topic/332)
+Keras 相关文章：[https://www.ziiai.com/topic/341](https://www.ziiai.com/topic/341)
 
 提问请到：[https://www.ziiai.com/question/ask](https://www.ziiai.com/question/ask)
 
